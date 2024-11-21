@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+numpy
+gradio
+# In order to stream videos correctly on Linux, you need to install the following dependencies (only if it fails):
+# sudo apt-get install ffmpeg x264 libx264-dev
+# make sure ffmpeg version is >= 4.0 (ffmpeg version 4.4.2-0ubuntu0.22.04.1 is recommended)
