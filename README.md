@@ -75,7 +75,7 @@ python web-analyze-video.py
 ### The Gradio Local and Public URLs
 - Local URL: ```http://localhost:7860```
 - Public URL: it is different every time and look like this:
-```https://<random-hex-umber>.gradio.live``` and it is valid for 72 hours only. It can be accessed anywhere.
+```https://<random-hex-number>.gradio.live``` and it is valid for 72 hours only. It can be accessed anywhere.
 
 ### Problem with Share=True in Windows
 It is possible that you firewall/antivirus wrongly flag the reverse proxy application in Gradio as malware. You have the option of changing the server lauch code from:
