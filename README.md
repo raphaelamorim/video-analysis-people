@@ -9,6 +9,13 @@ This personal project aims to create detection helpers for future projects. The 
 
 ## Setup
 
+### Clone the Repository
+To get started, clone the repository from GitHub:
+
+```bash
+git clone https://github.com/rodneyviana/video-analysis-people.git
+cd video-analysis-people
+```
 ### Create and Activate Virtual Environment
 
 #### On Linux
