@@ -1,7 +1,7 @@
 # Video Analysis
 
 ## Objective
-This personal project aims to create detection helpers for future projects. The application enables the detection of people using [YOLOv5n](https://docs.ultralytics.com/models/yolov5/). You do not need to download the model manually; it will be downloaded automatically the first time the application runs. Ensure you have access to [Hugging Face](https://huggingface.co/).
+This personal project aims to create detection helpers for future projects. The application enables the detection of people using [YOLOv11n](https://docs.ultralytics.com/models/yolo11/). You do not need to download the model manually; it will be downloaded automatically the first time the application runs. Ensure you have access to [Hugging Face](https://huggingface.co/).
 
 ## Requirements
 - Python 3.10 or later
