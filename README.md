@@ -35,6 +35,25 @@ python -m venv venv
 pip install -r requirements.txt
 ```
 
+### Installing ffmpeg on Linux (it may be necessary)
+
+Run:
+```
+sudo apt-get install ffmpeg x264 libx264-dev
+```
+Make sure ffmpeg is version 4.4.2 or newer.
+Run:
+```bash
+ffmpeg
+```
+Verify the version (as in the example below)
+```
+ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 11 (Ubuntu 11.2.0-19ubuntu1)
+  (... lines removed for brevity ...)
+```
+
+
 ## Running the Application
 
 ### Activate Virtual Environment
